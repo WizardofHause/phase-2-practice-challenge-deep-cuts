@@ -118,3 +118,12 @@ form {
     gap: 2em;
     margin-top: 2em;
 }
+
+.delete-button {
+    font-family: gochi;
+    font-size: 0.5em;
+    background: #0dfdfd;
+    padding: .1em;
+    color: black;
+    border-radius: 4px;
+}
